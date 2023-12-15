@@ -5,7 +5,7 @@ Hey there! 👋 I'm morihofi, an 18-year-old developer with a passion for coding
 - 🌍 I'm based Germany
 - 😄 My pronouns are he/him
 - 👨🏻‍💻 I primarily work with Java, PHP, C#, Visual Basic (6 and .NET), and JavaScript
-- ⚡ Fun fact: I've been programming for about 7 years. [See my projects (beginning at 2017)](https://morihofi.de/projects.php?mtm_campaign=github-profile)
+- ⚡ Fun fact: I've been programming for about 8 years. [See my projects (beginning at 2017)](https://morihofi.de/projects.php?mtm_campaign=github-profile)
 - 🎮 Besides programming, I'm an avid gamer
 - 🎬 I also have a keen interest in video editing and cutting. It's a creative outlet for me, and I enjoy creating visually appealing content
 - 🏳‍🌈 I'm proud to be a member of the LGBTQ+ community
